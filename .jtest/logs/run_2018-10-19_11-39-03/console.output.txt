@@ -1,0 +1,118 @@
+ライセンス: 機能 "Desktop Command Line" ステータス: この機能は現在のライセンスでは利用できません。
+ライセンス: 機能 "Unit Test Bulk Creation" ステータス: この機能は現在のライセンスでは利用できません。
+ライセンス: 機能 "Unit Test Spring Framework" ステータス: この機能は現在のライセンスでは利用できません。
+ライセンス: 機能 "Change Based Testing" ステータス: この機能は現在のライセンスでは利用できません。
+ライセンス: マシン ID WIN32-5bdc3b59
+解析設定が原因でルールマップを更新できません。
+ダウンロードされたルール: 0
+ルールが変更されています。更新を実行します
+コンフィギュレーション: Calculate Application Coverage (builtin://Calculate Application Coverage)
+コマンド ライン: jtestcli -staticcoverage C:\tmp\Jtest_10.4.0\store-all-master\target\jtest\monitor\monitor\monitor\static_coverage.xml -runtimecoverage C:\tmp\Jtest_10.4.0\store-all-master\target\jtest\monitor\monitor\monitor\runtime_coverage -config builtin://Calculate Application Coverage
+[ 0%] > テスト コンテキストを計算しています。
+[ 2%] < テスト コンテキストを計算しています。: 100% 
+[ 2%] > PreAnalysis
+[ 5%] < PreAnalysis
+[ 5%] > スコープ
+[ 5%] > スコープ > リソース フィルター
+[ 5%] > 解析
+[ 5%] > 結果
+[ 5%] > 結果 > メトリクス プロセッサ
+[ 5%] > 結果 > スコープ プロセッサ
+[ 5%] > 結果 > 重複プロセッサ
+[ 5%] > 結果 > Rule Limit Processor
+[ 5%] > 結果 > メタデータ プロセッサ
+[ 5%] > 結果 > Unit Test Processor
+[ 5%] > 結果 > Author Processor
+[ 5%] > 結果 > Suppression Processor
+[ 5%] > 結果 > Coverage Processor
+[ 5%] > 結果 > Goals Processor
+[ 5%] > 解析
+[ 5%] > 結果
+[ 5%] > 結果 > メトリクス プロセッサ
+[ 5%] > 結果 > スコープ プロセッサ
+[ 5%] > 結果 > 重複プロセッサ
+[ 5%] > 結果 > Rule Limit Processor
+[ 5%] > 結果 > メタデータ プロセッサ
+[ 5%] > 結果 > Unit Test Processor
+[ 5%] > 結果 > Author Processor
+[ 5%] > 結果 > Suppression Processor
+[ 5%] > 結果 > Coverage Processor
+[ 5%] > 結果 > Goals Processor
+メールでのレポート送信は無効化されています。有効化するには report.mail.enabled 設定を使用します。
+[ 5%] > レポート
+[ 5%] < スコープ > リソース フィルター
+[ 9%] < スコープ                                                                      >>> スコープ 時間 0s
+[56%] < 解析                                                                        >>> 解析 時間 0.01s
+[56%] < 結果 > メトリクス プロセッサ
+[56%] < 結果 > スコープ プロセッサ
+[56%] < 結果 > 重複プロセッサ
+[56%] < 結果 > Rule Limit Processor
+[56%] < 結果 > メタデータ プロセッサ
+[56%] < 結果 > Unit Test Processor
+[56%] < 結果 > Author Processor
+[56%] < 結果 > Suppression Processor
+[56%] < 結果 > Coverage Processor
+[56%] < 結果 > Goals Processor
+[65%] < 結果                                                                        >>> 結果 時間 0s
+[65%]   解析 > Coverage Merger: 静的カバレッジをロードしています。
+[67%]   解析 > Coverage Merger: 実行時カバレッジを処理しています。
+[67%]   解析 > Coverage Merger: 静的カバレッジをロードしています。
+[67%]   解析 > Coverage Merger: ファイルをロードしています (1/2) runtime_coverage_20181019_1134_0.data
+[67%]   解析 > Coverage Merger: ファイルをロードしています (2/2) runtime_coverage_20181019_1136_0.data
+[67%]   解析 > Coverage Merger: 実行時カバレッジを処理しています。4 % 処理済み
+[67%]   解析 > Coverage Merger: 実行時カバレッジを処理しています。8 % 処理済み
+[67%]   解析 > Coverage Merger: 実行時カバレッジを処理しています。13 % 処理済み
+[67%]   解析 > Coverage Merger: 実行時カバレッジを処理しています。17 % 処理済み
+[67%]   解析 > Coverage Merger: 実行時カバレッジを処理しています。21 % 処理済み
+[67%]   解析 > Coverage Merger: 実行時カバレッジを処理しています。26 % 処理済み
+[67%]   解析 > Coverage Merger: 実行時カバレッジを処理しています。30 % 処理済み
+[67%]   解析 > Coverage Merger: 実行時カバレッジを処理しています。34 % 処理済み
+[67%]   解析 > Coverage Merger: 実行時カバレッジを処理しています。39 % 処理済み
+[67%]   解析 > Coverage Merger: 実行時カバレッジを処理しています。43 % 処理済み
+[67%]   解析 > Coverage Merger: 実行時カバレッジを処理しています。47 % 処理済み
+[68%]   解析 > Coverage Merger: 実行時カバレッジを処理しています。52 % 処理済み
+[68%]   解析 > Coverage Merger: 実行時カバレッジを処理しています。56 % 処理済み
+[68%]   解析 > Coverage Merger: 実行時カバレッジを処理しています。60 % 処理済み
+[68%]   解析 > Coverage Merger: 実行時カバレッジを処理しています。65 % 処理済み
+[68%]   解析 > Coverage Merger: 実行時カバレッジを処理しています。69 % 処理済み
+[68%]   解析 > Coverage Merger: 実行時カバレッジを処理しています。73 % 処理済み
+[69%]   解析 > Coverage Merger: 実行時カバレッジを処理しています。78 % 処理済み
+[69%]   解析 > Coverage Merger: 実行時カバレッジを処理しています。82 % 処理済み
+[69%]   解析 > Coverage Merger: 実行時カバレッジを処理しています。86 % 処理済み
+[69%]   解析 > Coverage Merger: 実行時カバレッジを処理しています。91 % 処理済み
+[69%]   解析 > Coverage Merger: 実行時カバレッジを処理しています。95 % 処理済み
+[69%]   解析 > Coverage Merger: 実行時カバレッジを処理しています。100 % 処理済み
+[81%] < 解析: 0 個の違反が見つかりました。                                                       >>> 解析 時間 0.01s
+[81%] < 結果 > メトリクス プロセッサ
+[81%] < 結果 > スコープ プロセッサ
+[81%] < 結果 > 重複プロセッサ
+[81%] < 結果 > Rule Limit Processor
+[81%] < 結果 > メタデータ プロセッサ
+[81%] < 結果 > Unit Test Processor
+[81%] < 結果 > Author Processor
+[81%] < 結果 > Suppression Processor
+[81%] < 結果 > Coverage Processor
+[81%] < 結果 > Goals Processor
+[90%] < 結果                                                                        >>> 結果 時間 0.06s
+[95%] < レポート                                                                      >>> レポート 時間 0.1s
+[95%]                                                                             >>> 合計時間 2.13s
+[95%] > レポーターを終了しています。
+スコープ内のファイル: 0
+違反されたルール: 0/0
+有効化されたメトリクス:0
+静的解析違反:0
+単体テストの失敗:0
+実行されたテスト ケース: 0
+カバレッジ: 148/647 行 (23% カバー済み)
+実行時間 (秒) : 4
+[95%]   レポーターを終了しています。: 14% 
+セットアップの問題が発生しました。冗長度を上げてすべての詳細を参照するには、console.verbosity.levelにhighを設定します。
+HTML レポートが生成されました: C:\tmp\Jtest_10.4.0\store-all-master\report\report.html
+[96%]   レポーターを終了しています。: 28% 
+DTP にパブリッシュされたソースの合計:0s の 21 (0 B) のうち 0
+21 個のファイルは DTP サーバーに既に存在するため、パブリッシュされませんでした。
+XML レポートが生成されました: C:\tmp\Jtest_10.4.0\store-all-master\report\coverage.xml
+DTP localhost:8443 に jtest プロジェクトのレポートをパブリッシュしています ...
+レポートは正常に DTP にパブリッシュされました
+[97%]   レポーターを終了しています。: 42% 
+[100%] < レポーターを終了しています。: 100% 

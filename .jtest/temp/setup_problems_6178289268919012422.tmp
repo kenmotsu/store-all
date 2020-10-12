@@ -1,0 +1,6 @@
+Type: CoverageNoTestInfoSetupProblem
+Message: 次のカバレッジ ファイルはテストと関連付けられていません:
+Severity: 0
+ErrorList: 
+   C:\tmp\Jtest_10.4.0\store-all-master\target\jtest\monitor\monitor\monitor\runtime_coverage\__default__\runtime_coverage_20181019_1136_0.data
+
