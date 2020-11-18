@@ -21,4 +21,4 @@
 * Servlet
 * BeanValidation
 
-JSPはJtest10.Xで解析できないため使用していません。
+JSPはJtest10.Xで解析できないため使用していません。ECHO �� <ON> �ł��B
