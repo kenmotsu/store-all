@@ -23,3 +23,4 @@
 
 JSPはJtest10.Xで解析できないため使用していません。ECHO �� <ON> �ł��B
 ECHO �� <ON> �ł��B
+ECHO �� <ON> �ł��B
